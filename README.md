@@ -13,4 +13,4 @@ Links:
 
 a.Youtube:
 
-b.Github:
+b.Github: https://github.com/PallaviVedpathak/GRIP_TASK2_CV-IOT_Color-Identification
